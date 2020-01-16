@@ -4,4 +4,4 @@
 
 ## tom 分支增加
 
-![](./timg.jpeg)
+![](timg.jpeg)
